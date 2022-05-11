@@ -1,7 +1,7 @@
 # Language name in their native
-language: "English 🇬🇧"
+language: "Russian 🇬🇧"
 # name of people(s) who worked on this translation
-authors: "@saint_foire"
+authors: "@isIam07"
 
 # languages
 curr_chat_lang: "Hey. Your current language is {}, select the one you want from the buttons below :)"
@@ -9,44 +9,44 @@ set_chat_lang: "Great, using {} Language it is from now on!"
 
 # PM Text
 pm_start_text: |
-  *Hey Darling, {} ❤️*
-  ✪ I'm an anime-theme management robot [✨](https://telegra.ph/file/6d3e3ef24f64fb6e35df0.jpg)
+  *Здравствуйте, {} 💀*
+  ✪ Я BORZ [✨](https://telegra.ph/file/e23205114ed56ce497aab.jpg)
 
   ┏━━━━━━━━•❃°•°❀°•°❃•━━━━━━━━┓
   × *Server Uptime :* `{}`
   × `{}` *users, across* `{}` *chats.*
   ┗━━━━━━━━•❃°•°❀°•°❃•━━━━━━━━┛
 
-  ✪ Hit /help to see my available commands.
+  ✪ Нажмите /help, чтобы увидеть мои доступные команды.
    
 group_start_text: |
-  *👋🏻 Hi Darling, I'm Siesta Robot!*
+  *👋🏻 Hi Darling, I'm BORZ!*
   
   *Started active since :* `{}`
 
 pm_about_text: |
-  ✺ Hey Darling I'm *Siesta Robot*, a powerful group management bot built to help you manage your group easily. ✺
+  ✺ Здравствуйте! Меня зовут BORZ - я здесь, чтобы помочь вам управлять своими группами!. ✺
 
-  ✪ I can restrict users.
+  ✪ Я могу ограничить пользователей.
   ✪ I can greet users with customizable welcome messages and even set a group's rules.
   ✪ I have an advanced anti-flood system.
   ✪ I can warn users until they reach max warns, with each predefined actions such as ban, mute, kick, etc.
   ✪ I have a note keeping system, blacklists, and even predetermined replies on certain keywords.
   ✪ I check for admins' permissions before executing any command and more stuffs
 
-  _Siesta's licensed under the GNU General Public License v3.0_
-  Click on button bellow to get basic help for Siesta Robot.
+  _BORZ licensed under the GNU General Public License v3.0_
+  Click on button bellow to get basic help for BORZ.
 pm_about_admin_text: |
   *✺ Let's make your group bit effective now ✺*
 
-  Congragulations, Siesta Robot now ready to manage your group.
+  Congragulations, BORZ now ready to manage your group.
 
   *Admin Tools*
-  Basic Admin tools help you to protect and powerup your group.
-  You can ban members, Kick members, Promote someone as admin through commands of bot.
+  Основные инструменты администратора помогут вам защитить и усилить вашу группу.
+  Вы можете банить участников, выкидывать участников, продвигать кого-то как администратора с помощью команд бота.
 
   *Greetings*
-  Lets set a welcome message to welcome new users coming to your group.
+  Давайте установим приветственное сообщение, чтобы приветствовать новых пользователей, приходящих в вашу группу.
   Send `/setwelcome [message]` to set a welcome message!
 pm_about_notes_text: |
   *✺ Setting up notes ✺*
@@ -54,13 +54,13 @@ pm_about_notes_text: |
   ✪ You can save message/media/audio or anything as notes to get a note simply use # at the beginning of a word
   ✪ You can also set buttons for notes and filters (refer help menu)
 pm_about_support_text: |
-  *✺ Siesta Robot support chats ✺*
+  *✺ BORZ support chats ✺*
 
-  Join My Support Group/Channel for see or report a problem on Siesta.
+  Join My Support Group/Channel for see or report a problem on BORZ.
 pm_about_credit_text: |
-  *✺ Credis for Siesta ✺*
+  *✺ Credis for BORZ ✺*
 
-  Here Developers Making And Give Inspiration For Made The Siesta Robot
+  Here Developers Making And Give Inspiration For Made The BORZ
 pm_help_text: |
   *✺ Click on the button bellow to get description about specifics command. ✺*
 pm_help_module_text: "Here is the help for the *{}* module :\n\n"
@@ -89,7 +89,7 @@ notes_button: "Notes"
 source_button: "Source Code"
 help_button: "Get Help"
 back_button: "Go back"
-about_button: "About Siesta Robot"
+about_button: "About BORZ"
 inline_button: "Try inline!​​"
 
 # MODULES
@@ -97,30 +97,30 @@ admin_help: |
     ──「 Admins 」──
 
     *User Commands*:
-    ❂ /admins*:* list of admins in the chat
-    ❂ /pinned*:* to get the current pinned message.
+    ❂ /admins*:* Список админов в чате
+    ❂ /pinned*:* чтобы получить текущее закрепленное сообщение.
 
-    *The Following Commands are Admins only:* 
-    ❂ /pin*:* silently pins the message replied to - add `'loud'` or `'notify'` to give notifs to users
-    ❂ /unpin*:* unpins the currently pinned message
-    ❂ /invitelink*:* gets invitelink
-    ❂ /promote*:* promotes the user replied to
-    ❂ /fullpromote*:* promotes the user replied to with full rights
-    ❂ /demote*:* demotes the user replied to
-    ❂ /title <title here>*:* sets a custom title for an admin that the bot promoted
-    ❂ /admincache*:* force refresh the admins list
-    ❂ /del*:* deletes the message you replied to
-    ❂ /purge*:* deletes all messages between this and the replied to message.
-    ❂ /purge <integer X>*:* deletes the replied message, and X messages following it if replied to a message.
-    ❂ /setgtitle <text>*:* set group title
-    ❂ /setgpic*:* reply to an image to set as group photo
-    ❂ /setdesc*:* Set group description
-    ❂ /setsticker*:* Set group sticker
+    *Следующие команды доступны только администраторам:* 
+    ❂ /pin*:* тихо прикрепляет сообщение, на которое был дан ответ — добавьте `'loud'` или `'notify'`, чтобы уведомлять пользователей
+    ❂ /unpin*:* открепляет текущее закрепленное сообщение
+    ❂ /invitelink*:* получает инвайтлинк
+    ❂ /promotion*:* Повышает пользователя, Ответьте пользователю или используйте его имя пользователя.
+    ❂ /fullpromote*:* Повышает пользователя, Ответьте пользователю или используйте его имя пользователя.
+    ❂ /demote*:* Понижает пользователя. Ответьте пользователю или используйте его имя пользователя.
+    ❂ /title <заголовок здесь>*:* задает пользовательский заголовок для администратора, которого продвигал бот
+    ❂ /admincache*:* принудительно обновить список администраторов
+    ❂ /del*:* удаляет сообщение, на которое вы ответили
+    ❂ /purge*:* удаляет все сообщения между этим и ответным сообщением.
+    ❂ /purge <целое число X>*:* удаляет ответное сообщение и X сообщений, следующих за ним.
+    ❂ /setgtitle <текст>*:* устанавливает название группы
+    ❂ /setgpic*:* ответ на изображение, которое нужно установить в качестве группового фото
+    ❂ /setdesc*:* Установить описание группы
+    ❂ /setsticker*:* Установить групповой стикер
 
     *Rules*:
-    ❂ /rules*:* get the rules for this chat.
-    ❂ /setrules <your rules here>*:* set the rules for this chat.
-    ❂ /clearrules*:* clear the rules for this chat.
+    ❂ /rules*:* получите правила для этого чата.
+    ❂ /setrules <ваши правила здесь>: устанавливает правила для этого чата
+    ❂ /clearrules*:* удаляет правила этого чата
 anime_help: |
     ──「 Anime Search 」──   
 
@@ -154,20 +154,20 @@ antichannel_help: |
 antiflood_help: |
     ──「 Anti-Flood 」──
 
-    Antiflood allows you to take action on users that send more than x messages in a row. Exceeding the set flood \
-    will result in restricting that user.
-    This will mute users if they send more than 10 messages in a row, bots are ignored.
-    ❂ `/flood`*:* Get the current flood control setting
+    Антифлуд позволяет принимать меры в отношении пользователей, которые отправляют более 10 сообщений подряд. Превышение установленного порядки\
+    приведет к ограничению этого пользователя.
+    Это отключит пользователей, если они отправят более 10 сообщений подряд, боты игнорируются..
+    ❂ `/flood`*:* получите текущие настройки защиты от спама
 
     *Admins only:*
 
-    ❂ `/setflood <int/'no'/'off'>`*:* enables or disables flood control
-    *Example:* `/setflood 10`
-    ❂ `/setfloodmode <ban/kick/mute/tban/tmute> <value>`*:* Action to perform when user have exceeded flood limit. ban/kick/mute/tmute/tban
+    ❂ `/setflood <int/'no'/'off'>`*:* устанавите количество сообщений, при которых нужно предпринять действия для пользователя.
+    *Пример:* `/setflood 10`
+    ❂ `/setfloodmode <ban/kick/mute/tban/tmute> <value>`*:* Действие, выполняемое, когда пользователь превысил лимит флуда. ban/kick/mute/tmute/tban
 
     *Note:*
-    Value must be filled for tban and tmute!!
-    It can be:
+    Значение должно быть заполнено для tban и tmute!!
+    Это может быть:
     ➩ `5m` = 5 minutes
     ➩ `6h` = 6 hours
     ➩ `3d` = 3 days
@@ -176,10 +176,9 @@ antispam_help: |
     ──「 Anti-Spam 」──
 
     *Admins only:*
-    ❂ `/antispam <on/off/yes/no>`*:* Will toggle our antispam tech or return your current settings.
+    ❂ `/antispam <on/off/yes/no>`*:Измените параметры защиты от спама в группе или верните текущие настройки (если нет аргументов).
 
-    Anti-Spam, used by bot devs to ban spammers across all groups. This helps protect \
-    you and your groups by removing spam flooders as quickly as possible.
+    Анти спам используется владельцами ботов для запрета спамеров во всех группах. Это помогает защитить вас и ваши группы, удаляя спам-наводнения как можно быстрее. Это включено по умолчанию, но вы можете изменить это с помощью команды.
     *Note:* Users can appeal gbans or report spammers at @{SUPPORT_CHAT}
 
     This also integrates @Spamwatch API to remove Spammers as much as possible from your chatroom!
@@ -190,120 +189,120 @@ antispam_help: |
 approve_help: |
     ──「 Aprroved 」──
 
-    Sometimes, you might trust a user not to send unwanted content.
-    Maybe not enough to make them admin, but you might be ok with locks, blacklists, and antiflood not applying to them.
-
-    That's what approvals are for - approve of trustworthy users to allow them to send
-
+    Иногда вы можете доверять пользователю, чтобы он не отправлял нежелательный контент.
+        Возможно, не настолько, чтобы сделать его администратором, но вы можете быть согласны с тем, что блокировки, черные списки и антифлуд к нему не применяются.
+    Вот для чего нужны одобрения - одобрить доверенных пользователей, чтобы разрешить им отправлять.
     *Admin commands:*
-    ❂ /approval*:* Check a user's approval status in this chat.
-    ❂ /approve*:* Approve of a user. Locks, blacklists, and antiflood won't apply to them anymore.
-    ❂ /unapprove*:* Unapprove of a user. They will now be subject to locks, blacklists, and antiflood again.
-    ❂ /approved*:* List all approved users.
-    ❂ /unapproveall*:* Unapprove *ALL* users in a chat. This cannot be undone.
+    ❂ /approval*:* Проверить статус одобрения пользователя в этом чате.
+        ❂ /approve*:* Одобрить пользователя. Блокировки, черные списки и антифлуд больше не будут применяться к нему.
+        ❂ /unapprove*:* Не одобрить пользователя. Теперь на него снова будут распространяться блокировки, черные списки и антифлуд.
+        ❂ /approved*:* Список всех одобренных пользователей.
+        ❂ /unapproveall*:* Отменить одобрение *всех* пользователей в чате. Это нельзя отменить
+
+
 bansmutes_help: |
     ──「 Bans / Mutes 」──
 
-    *User Commands:*
+    *Команды пользователя:*
 
-    ❂ /kickme*:* kicks the user who issued the command
+    ❂ /kickme*:* Удаляет пользователя, использовавшего команду.
 
     *Admins only:*
 
-    ❂ /ban <userhandle>*:* bans a user. (via handle, or reply)
-    ❂ /sban <userhandle>*:* Silently ban a user. Deletes command, Replied message and doesn't reply. (via handle, or reply)
-    ❂ /tban <userhandle> x(m/h/d)*:* bans a user for x time. (via handle, or reply). m = minutes, h = hours, d = days.
-    ❂ /unban <userhandle>*:* unbans a user. (via handle, or reply)
-    ❂ /kick <userhandle>*:* kicks a user out of the group, (via handle, or reply)
-    ❂ /mute <userhandle>*:* silences a user. Can also be used as a reply, muting the replied to user.
-    ❂ /tmute <userhandle> x(m/h/d)*:* mutes a user for x time. (via handle, or reply). m = minutes, h = hours, d = days.
-    ❂ /unmute <userhandle>*:* unmutes a user. Can also be used as a reply, muting the replied to user.
-    ❂ /zombies*:* searches deleted accounts
-    ❂ /zombies clean*:* removes deleted accounts from the group.
-    ❂ /snipe <chatid> <string>*:* Make me send a message to a specific chat.
+    ❂ /ban <userhandle>*:* Забанит пользователя в чате. <ответить на сообщение пользователя> или <упомянуть>
+    ❂ /sban <userhandle>*:* Забанить пользователя, не оставляя сообщения. <ответить на сообщение пользователя> или <упомянуть>
+    ❂ /tban <userhandle> x(m/h/d)*:* для выдачи временного бана. m = минуты, h = часы, d = дни.
+    ❂ /unban <userhandle>*:* Снимает бан.. 
+    ❂ /kick <userhandle>*:* выкидывает пользователя из группы <ответить на сообщение пользователя> или <упомянуть>
+    ❂ /mute <userhandle>*:* выдаёт мут пользователю.
+    ❂ /tmute <userhandle> x(m/h/d)*:* выдаёт мут участнику на указанное время.. (ответить на сообщение пользователя). `m` = `минут`, `h` = `часы`, `d` = `дней`.
+    ❂ /unmute <userhandle>*:* снимает мут.
+    ❂ /zombies*:* ищет удаленные аккаунты
+    ❂ /zombies clean*:* удаляет удаленные аккаунты из группы.
+    ❂ /snipe <chatid> <string>*:* Заставляет бота отправить сообщение в определенный чат.
 blacklist_help: |
     ──「 Blacklist 」──
 
-    Blacklists are used to stop certain triggers from being said in a group. Any time the trigger is mentioned, the message will immediately be deleted. A good combo is sometimes to pair this up with warn filters!
+    Черные списки используются для предотвращения произнесения определенных слов в группе. При каждом упоминании слово сообщение будет немедленно удалено. 
 
-    *NOTE*: Blacklists do not affect group admins.
+    *ПРИМЕЧАНИЕ*: черные списки не влияют на администраторов групп.
 
-    ❂ /blacklist*:* View the current blacklisted words.
+    ❂ /blacklist*:* Просмотр текущих слов в черном списке.
 
     Admin only:
-    ❂ /addblacklist <triggers>*:* Add a trigger to the blacklist. Each line is considered one trigger, so using different lines will allow you to add multiple triggers.
-    ❂ /unblacklist <triggers>*:* Remove triggers from the blacklist. Same newline logic applies here, so you can remove multiple triggers at once.
-    ❂ /blacklistmode <off/del/warn/ban/kick/mute/tban/tmute>*:* Action to perform when someone sends blacklisted words.
+    ❂ /addblacklist <triggers>*:* Добавляет слова в черный список. Каждая строка считается одним словом, поэтому использование разных строк позволит вам добавить несколько слов.
+    ❂ /unblacklist <triggers>*:* Удаляет слова из черного списка. Здесь применяется та же логика новой строки, поэтому вы можете удалить сразу несколько слов.
+    ❂ /blacklistmode <off/del/warn/ban/kick/mute/tban/tmute>*:* Действие, выполняемое, когда кто-то отправляет слова из черного списка.
 
-    Blacklist sticker is used to stop certain stickers. Whenever a sticker is sent, the message will be deleted immediately.
-    *NOTE:* Blacklist stickers do not affect the group admin
-    ❂ /blsticker*:* See current blacklisted sticker
-    *Only admin:*
-    ❂ /addblsticker <sticker link>*:* Add the sticker trigger to the black list. Can be added via reply sticker
-    ❂ /unblsticker <sticker link>*:* Remove triggers from blacklist. The same newline logic applies here, so you can delete multiple triggers at once
-    ❂ /rmblsticker <sticker link>*:* Same as above
-    ❂ /blstickermode <delete/ban/tban/mute/tmute>*:* sets up a default action on what to do if users use blacklisted stickers
-    Note:
+    Наклейка «Черный список» используется для остановки определенных стикеров. Всякий раз, когда стикер отправляется, сообщение будет немедленно удалено.
+    *ПРИМЕЧАНИЕ:* Стикеры из черного списка не влияют на администратора группы
+    ❂ /blsticker*:* Посмотреть текущие стикеры из черного списка
+    *Только админ:*
+    ❂ /addblsticker <sticker link>*:* Добавляет стикера в черный список.
+    ❂ /unblsticker <sticker link>*:* Удаляет стикеры из черного списка.
+    ❂ /rmblsticker <sticker link>*:* То же, что и выше
+    ❂ /blstickermode <delete/ban/tban/mute/tmute>*:* устанавливает действие по умолчанию, что делать, если пользователи используют стикеры из черного списка
+    Примечание:
     ❂ <sticker link> can be `https://t.me/addstickers/<sticker>` or just `<sticker>` or reply to the sticker message
 chatbot_help: |
     ──「 Chatbot AI 」──
 
-    Siesta AI is the only ai system which can detect & reply upto 200 language's
+    BORZ AI — единственная система искусственного интеллекта, которая может обнаруживать и отвечать на до 200 языков.
 
-    ❂ /chatbot [ON/OFF]: Enables and disables AI Chat mode.
-    ❂ /chatbot EN : Enables English only chatbot.
+    ❂ /chatbot [ON/OFF]: Включает и отключает режим AI Chat.
+    ❂ /chatbot EN : Включает чат-бот только на английском языке.
 cleaner_help: |
     ──「 Cleaner 」──
 
-    Blue text cleaner removed any made up commands that people send in your chat.
+    Очиститель синего текста удалил все выдуманные команды, которые люди отправляют в ваш чат.
 
-    ❂ /cleanblue <on/off/yes/no>*:* clean commands after sending
-    ❂ /ignoreblue <word>*:* prevent auto cleaning of the command
-    ❂ /unignoreblue <word>*:* remove prevent auto cleaning of the command
-    ❂ /listblue*:* list currently whitelisted commands
+    ❂ /cleanblue <on/off/yes/no>*:* чистые команды после отправки
+    ❂ /ignoreblue <word>*:* предотвратить автоматическую очистку команды
+    ❂ /unignoreblue <word>*:* удалить запретить автоматическую очистку команды
+    ❂ /listblue*:* список в настоящее время разрешенных команд
 
-    *Following are Disasters only commands, admins cannot use these:*
+    *Следующие команды - это команды, предназначенные только для аварийных служб, администраторы не могут их использовать:*
 
-    ❂ /gignoreblue <word>*:* globally ignorea bluetext cleaning of saved word across Saitama.
-    ❂ /ungignoreblue <word>*:* remove said command from global cleaning list
+    ❂ /gignoreblue <word>*:* глобально игнорировать очистку синего текста сохраненного слова в Борзе.
+    ❂ /ungignoreblue <word>*:* удалить указанную команду из глобального списка очистки
 connection_help: |
     ──「 Connection 」──
 
-    Sometimes, you just want to add some notes and filters to a group chat, but you don't want everyone to see; This is where connections come in...
-    This allows you to connect to a chat's database, and add things to it without the commands appearing in chat! For obvious reasons, you need to be an admin to add things; but any member in the group can view your data.
+    Иногда вы просто хотите добавить некоторые заметки и фильтры в групповой чат, но не хотите, чтобы все их видели.
+        Это позволяет вам подключаться к базе данных чата и добавлять в него вещи без появления команд в чате! По очевидным причинам, для добавления данных вам необходимо быть администратором, но любой член группы может просматривать ваши данные.
 
-    ❂ /connect: Connects to chat (Can be done in a group by /connect or /connect <chat id> in PM)
-    ❂ /connection: List connected chats
-    ❂ /disconnect: Disconnect from a chat
-    ❂ /helpconnect: List available commands that can be used remotely
+        ❂ /connect: Подключает к чату (может быть сделано в группе с помощью /connect или /connect <chat id> в личку)
+        ❂ /connection: Список подключенных чатов
+        ❂ /disconnect: Отключиться от чата
+        ❂ /helpconnect: Список доступных команд, которые можно использовать удаленно
 
     *Admin only:*
 
-    ❂ /allowconnect <yes/no>: allow a user to connect to a chat
+    ❂ /allowconnect <yes/no>: разрешить пользователю подключаться к чату
 disabling_help: |
     ──「 Disabling 」──
 
-    ❂ /cmds*:* check the current status of disabled commands
+    ❂ /cmds*:* проверка текущего состояния отключенных команд
 
     *Admins only:*
 
-    ❂ /enable <cmd name>*:* enable that command
-    ❂ /disable <cmd name>*:* disable that command
-    ❂ /enablemodule <module name>*:* enable all commands in that module
-    ❂ /disablemodule <module name>*:* disable all commands in that module
-    ❂ /listcmds*:* list all possible toggleable commands
+    ❂ /enable <cmd name>*:* включить эту команду
+    ❂ /disable <cmd name>*:* отключить эту команду
+    ❂ /enablemodule <module name>*:* включить все команды в этом модуле
+    ❂ /disablemodule <module name>*:* отключить все команды в этом модуле
+    ❂ /listcmds*:* список всех возможных переключаемых команд
 extras_help: |
     ──「 Extras 」──
 
-    ❂ /markdownhelp*:* quick summary of how markdown works in telegram - can only be called in private chats
-    ❂ /paste*:* Saves replied content to `nekobin.com` and replies with a url
-    ❂ /spaste*:* Saves replied content to `spaceb.in` and replies with a url
-    ❂ /react*:* Reacts with a random reaction 
-    ❂ /ud <word>*:* Type the word or expression you want to search use
-    ❂ /reverse*:* Does a reverse image search of the media which it was replied to.
-    ❂ /wiki <query>*:* wikipedia your query
-    ❂ /wall <query>*:* get a wallpaper from wall.alphacoders.com
-    ❂ /cash*:* currency converter
+    ❂ /markdownhelp*:* краткое изложение того, как работает уценка в телеграмме - можно вызывать только в приватных чатах
+    ❂ /paste*:* Сохраняет отвеченный контент на `nekobin.com` и отвечает URL-адресом
+    ❂ /spaste*:* Сохраняет содержимое ответа в `spaceb.in` и отвечает на него с помощью урла
+    ❂ /react*:* Реагирует случайной реакцией 
+    ❂ /ud <word>*:* Введите слово или выражение, которое вы хотите использовать для поиска
+    ❂ /reverse*:* Выполняет обратный поиск изображений в СМИ, на которые был дан ответ.
+    ❂ /wiki <запрос>*:* Википедия вашего запроса
+    ❂ /wall <запрос>*:* получить обои с сайта wall.alphacoders.com
+    ❂ /cash*:* конвертер валют
 
       Example:
       ➩ `/cash 1 USD INR`  
@@ -344,19 +343,19 @@ fsub_feds_help: |
 
     *Force Subscribe:*
 
-    Siesta can mute members who are not subscribed your channel until they subscribe When enabled I will mute unsubscribed members and show them a unmute button. When they pressed the button I will unmute them
+    BORZ can mute members who are not subscribed your channel until they subscribe When enabled I will mute unsubscribed members and show them a unmute button. When they pressed the button I will unmute them
 
     *Setup* *:* *Only creator*
     ❂ Add me in your group as admin
     ❂ Add me in your channel as admin 
     
     *Commmands*
-    ❂ /fsub {channel username} - To turn on and setup the channel.
+    ❂ /fsub {channel username} - Включить и настроить канал.
 
       💡Do this first...
 
-    ❂ /fsub - To get the current settings.
-    ❂ /fsub disable - To turn of ForceSubscribe..
+    ❂ /fsub - Чтобы получить текущие настройки.
+    ❂ /fsub disable - Включить ForceSubscribe..
 
       💡If you disable fsub, you need to set again for working.. /fsub {channel username} 
 
@@ -475,17 +474,17 @@ greetings_help: |
     ──「 Greetings 」──
 
     *Admins only:*
-    ❂ /welcome <on/off>*:* enable/disable welcome messages.
-    ❂ /welcome*:* shows current welcome settings.
-    ❂ /welcome noformat*:* shows current welcome settings, without the formatting - useful to recycle your welcome messages!
-    ❂ /goodbye*:* same usage and args as `/welcome`.
-    ❂ /setwelcome <sometext>*:* set a custom welcome message. If used replying to media, uses that media.
-    ❂ /setgoodbye <sometext>*:* set a custom goodbye message. If used replying to media, uses that media.
-    ❂ /resetwelcome*:* reset to the default welcome message.
-    ❂ /resetgoodbye*:* reset to the default goodbye message.
-    ❂ /cleanwelcome <on/off>*:* On new member, try to delete the previous welcome message to avoid spamming the chat.
-    ❂ /welcomemutehelp*:* gives information about welcome mutes.
-    ❂ /cleanservice <on/off*:* deletes telegrams welcome/left service messages.
+    ❂ /welcome <on/off>*:* включить/отключить приветственные сообщения.
+    ❂ /welcome*:* показывает текущие настройки приветствия.
+    ❂ /welcome noformat*:* показывает текущие настройки приветствия без форматирования - полезно для повторного использования ваших приветственных сообщений!
+    ❂ /goodbye*:* то же использование и аргументы, что и у `/welcome`.
+    ❂ /setwelcome <sometext>*:* установить пользовательское приветственное сообщение.
+    ❂ /setgoodbye <sometext>*:*
+    ❂ /resetwelcome*:* сбросить приветственное сообщение по умолчанию.
+    ❂ /resetgoodbye*:* сбросить сообщение на прощание по умолчанию.
+    ❂ /cleanwelcome <on/off>*:* Для нового участника попробуйте удалить предыдущее приветственное сообщение, чтобы не спамить чат.
+    ❂ /welcomemutehelp*:* предоставляет информацию о приветственном отключении звука.
+    ❂ /cleanservice <on/off*:* удаляет приветственные/оставленные служебные сообщения телеграмм.
     *Example:*
     user joined chat, user left chat.
     *Welcome markdown:*
@@ -563,23 +562,23 @@ info_and_afk_help: |
 locks_help: |
     ──「 Locks 」──
 
-    Do stickers annoy you? or want to avoid people sharing links? or pictures? \
-    You're in the right place!
-    The locks module allows you to lock away some common items in the \
-    telegram world; the bot will automatically delete them!
+    Вас раздражают стикеры? или хотите, чтобы люди не делились ссылками? или картинки? \
+    Вы находитесь в правильном месте!
+    Модуль блокировки позволяет заблокировать некоторые медиа в \
+    BORZ; автоматически удалит их!
 
-    ❂ /locktypes*:* Lists all possible locktypes
+    ❂ /locktypes*:* Список всех возможных типов блокировки
 
-    *Admins only:*
-    ❂ /lock <type>*:* Lock items of a certain type (not available in private)
-    ❂ /unlock <type>*:* Unlock items of a certain type (not available in private)
-    ❂ /locks*:* The current list of locks in this chat.
+    *Только администраторы:*
+    ❂ /lock <тип>*:* Заблокировать медиа определенного типа (недоступно в приватном режиме)
+    ❂ /unlock <тип>*:* Разблокировать медиа (недоступно в приватном режиме)
+    ❂ /locks*:* Текущий список блокировки в этом чате.
 
-    Locks can be used to restrict a group's users.
+    Блокировки можно использовать для ограничения пользователей группы.
     eg:
-    Locking urls will auto-delete all messages with urls, locking stickers will restrict all \
-    non-admin users from sending stickers, etc.
-    Locking bots will stop non-admins from adding bots to the chat.
+    Блокировка ссылок приведет к автоматическому удалению всех сообщений с ссылками, блокировка стикеров ограничит всех \
+        неадминистративных пользователей от отправки стикеров и т.д.
+        Блокировка ботов не позволит не-админам добавлять ботов в чат.
 
     *Note:*
     ❂ Unlocking permission *info* will allow members (non-admins) to change the group information, such as the description or the group name
@@ -587,9 +586,9 @@ locks_help: |
 logchannel_help: |
     ──「 Log channel 」──
 
-    ❂ /logchannel*:* get log channel info
-    ❂ /setlog*:* set the log channel.
-    ❂ /unsetlog*:* unset the log channel.
+    ❂ /logchannel*:* получить информацию о канале журнала
+    ❂ /setlog*:* установить канал логов
+    ❂ /unsetlog*:* отключить канал логов.
 
     *Setting the log channel is done by*:
 
@@ -599,9 +598,9 @@ logchannel_help: |
 logomarker_help: |
     ──「 Logo Marker 」──
     
-    This is help menu for logomaker
-    ❂ /logo <text/name> - Create a logo with random view.
-    ❂ /wlogo <text/name> - Create a logo with wide view only.
+    Это меню помощи для программы logomaker
+        ❂ /logo <текст/имя> - Создать логотип с произвольным видом.
+        ❂ /wlogo <текст/имя> - Создать логотип только для широкого просмотра.
 
     *Image Editor : *
     ❂  /edit <reply photo> - to edit image.
@@ -655,40 +654,41 @@ reports_help: |
 search_help: |
     ──「 Search 」──
 
-    ❂ /google <query>*:* Perform a google search
-    ❂ /image <query>*:* Search Google for images and returns them\nFor greater no. of results specify lim, For eg: `/img hello lim=10`
-    ❂ /app <appname>*:* Searches for an app in Play Store and returns its details.
-    ❂ /reverse: Does a reverse image search of the media which it was replied to.
-    ❂ /gps <location>*:* Get gps location.
-    ❂ /github <username>*:* Get information about a GitHub user.
-    ❂ /country <country name>*:* Gathering info about given country
-    ❂ /imdb <Movie name>*:* Get full info about a movie with imdb.com
-    ❂ Siesta <query>*:* Siesta answers the query
+    ❂ /google <запрос>*:* Выполнить поиск в google
+    ❂ /image <query>*:* Поиск изображений в Google и возвращает их\nДля большего количества результатов укажите lim, например: `/img hello lim=10`.
+    ❂ /app <имя приложения>*:* Поиск приложения в Play Store и возвращает его подробную информацию.
+    ❂ /reverse: Выполняет обратный поиск изображений в СМИ, на которые был дан ответ.
+    ❂ /gps <локация>*:* Получение местоположения gps.
+    ❂ /github <имя пользователя>*:* Получение информации о пользователе GitHub.
+    ❂ /country <название страны>*:* Получение информации о заданной стране.
+    ❂ /imdb <Название фильма>*:* Получение полной информации о фильме с помощью imdb.com.
 
-    💡 Ex : `Siesta where is Japan?`
+    ❂ BORZ <query>*:* BORZ answers the query
+
+    💡 Ex : `BORZ where is Japan?`
 stickers_help: |
     ──「 Stickers 」──
 
     *Help menu for stickers tools*
-    ❂ /stickerid*:* reply to a sticker to me to tell you its file ID.
-    ❂ /getsticker*:* reply to a sticker to me to upload its raw PNG file.
-    ❂ /kang*:* reply to a sticker to add it to your pack.
-    ❂ /delsticker*:* Reply to your anime exist sticker to your pack to delete it.
-    ❂ /stickers*:* Find stickers for given term on combot sticker catalogue
-    ❂ /tiny*:* To make small sticker
-    ❂ /kamuii <1-8> *:* To deepefying stiker
-    ❂ /mmf <reply with text>*:* To draw a text for sticker or pohots
+    ❂ /stickerid*:* ответьте мне на стикер, чтобы я сообщил вам его ID файла.
+    ❂ /getsticker*:* ответьте мне на стикер, чтобы загрузить его необработанный PNG-файл.
+    ❂ /kang*:* ответьте на стикер, чтобы добавить его в свой пакет.
+    ❂ /delsticker*:* ответить на стикер, чтобы удалить его из своего пака.
+    ❂ /stickers*:* Найти стикеры для заданного термина в каталоге стикеров combot.
+    ❂ /tiny*:* Сделать маленькую наклейку.
+    ❂ /kamuii <1-8> *:* Для углубления стикера
+    ❂ /mmf <ответ с текстом>*:* Нарисовать текст для стикера
 tools_help: |
     ──「 Tools 」──
 
     *Sangmata Info bot*
-    ❂ /sg <reply>*:* To check history name
+    ❂ /sg <reply>*:* Чтобы проверить имя истории
 
     *Date-time-Weather*
-    ❂ /time <country code>*:* Gives information about a timezone.
-    ❂ /weather <city>*:* Get weather info in a particular place.
-    ❂ /wttr <city>*:* Advanced weather module, usage same as /weather
-    ❂ /wttr moon*:* Get the current status of moon
+    ❂ /time <country code>*:* Дает информацию о часовом поясе.
+    ❂ /weather <city>*:* Получить информацию о погоде в определенном месте.
+    ❂ /wttr <city>*:* Расширенный модуль погоды, использование аналогично /weather
+    ❂ /wttr moon*:* Получить текущий статус луны
 
     *Converts*
     ❂ /encrypt*:* Encrypts The Given Text
@@ -741,15 +741,15 @@ translator_help: |
 warns_help: |
     ──「 Warns 」──
 
-    ❂ /warns <userhandle>: get a user's number, and reason, of warns.
-    ❂ /warnlist: list of all current warning filters
-    ❂ /warn <userhandle>: warn a user. After 3 warns, the user will be banned from the group. Can also be used as a reply.
-    ❂ /dwarn <userhandle>: warn a user and delete the message. After 3 warns, the user will be banned from the group. Can also be used as a reply.
-    ❂ /resetwarn <userhandle>: reset the warns for a user. Can also be used as a reply.
-    ❂ /addwarn <keyword> <reply message>: set a warning filter on a certain keyword. If you want your keyword to be a sentence, encompass it with quotes, as such: /addwarn "very angry" This is an angry user.
-    ❂ /nowarn <keyword>: stop a warning filter
-    ❂ /warnlimit <num>: set the warning limit
-    ❂ /strongwarn <on/yes/off/no>: If set to on, exceeding the warn limit will result in a ban. Else, will just punch.
+    ❂ /warns <userhandle>: получить количество и причину предупреждений пользователя.
+    ❂ /warnlist: список всех текущих фильтров предупреждений.
+    ❂ /warn <userhandle>: предупредить пользователя. После 3 предупреждений пользователь будет исключен из группы. Может также использоваться в качестве ответа.
+    ❂ /dwarn <userhandle>: предупредить пользователя и удалить сообщение. После 3 предупреждений пользователь будет удален из группы. Также может быть использовано в качестве ответа.
+    ❂ /resetwarn <userhandle>: сбросить предупреждения для пользователя. Также может использоваться в качестве ответа.
+    ❂ /addwarn <ключевое слово> <ответное сообщение>: установить фильтр предупреждений по определенному ключевому слову. Если вы хотите, чтобы ключевое слово было предложением, заключите его в кавычки, например: /addwarn "очень сердитый" Это сердитый пользователь.
+    ❂ /nowarn <ключевое слово>: остановить фильтр предупреждений
+    ❂ /warnlimit <num>: установить предел предупреждений
+    ❂ /strongwarn <on/yes/off/no>: если установлено значение on, превышение лимита предупреждений приведет к бану. В противном случае, будет просто банить.
 
 # Admin.py Variabel Text
 user_change_info: "You're missing rights to change chat info!"
